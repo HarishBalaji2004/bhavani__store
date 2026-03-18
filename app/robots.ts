@@ -13,7 +13,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/_next/"],
       },
     ],
-    sitemap: "https://bhavanistore.in/sitemap.xml",
-    host: "https://bhavanistore.in",
+    sitemap: "https://bhavani-store.vercel.app/sitemap.xml",
+host: "https://bhavani-store.vercel.app",
   };
 }
