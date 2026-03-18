@@ -1,7 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = "https://bhavanistore.in";
-
+const BASE_URL = "https://bhavani-store.vercel.app";
 /**
  * Generates an XML sitemap for search engines
  * Automatically served at /sitemap.xml
